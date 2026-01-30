@@ -1,0 +1,9 @@
+langchain
+langgraph
+pydantic
+python-dotenv
+requests
+pytest
+loguru
+mistralai
+langchain-mistralai
