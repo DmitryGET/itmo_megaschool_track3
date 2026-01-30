@@ -114,9 +114,15 @@ pip install -r requirements.txt
 
 **`requirements.txt`:**
 ```text
-mistralai>=1.0.0
-pydantic>=2.0.0
-python-dotenv>=1.0.0
+langchain
+langgraph
+pydantic
+python-dotenv
+requests
+pytest
+loguru
+mistralai
+langchain-mistralai
 ```
 
 ### Настройка окружения
